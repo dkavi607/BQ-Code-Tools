@@ -1,0 +1,6 @@
+{
+  "name": "BQ Code Tools",
+  "description": "Free online barcode and QR code generator for businesses. Generate Code 128, EAN-13, UPC-A, WiFi/vCard QR codes, custom colors, batch labels, and instant PDF/PNG/SVG downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
